@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingQueueScheduler.Tests", "BlockingQueueScheduler.Tests.csproj", "{DD799C93-3150-40FE-B904-543315F753B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD799C93-3150-40FE-B904-543315F753B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD799C93-3150-40FE-B904-543315F753B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD799C93-3150-40FE-B904-543315F753B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD799C93-3150-40FE-B904-543315F753B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {120C8F0C-DF0C-459D-8DC1-F10F493032CC}
+	EndGlobalSection
+EndGlobal
